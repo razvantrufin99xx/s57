@@ -16,6 +16,7 @@ namespace s57
         public List<wire> thewires = new List<wire>();
         public List<outload> theoutloads = new List<outload>();
         public List<kontact> thekontantors = new List<kontact>();
+        public List<functionItem> thefunctionItems = new List<functionItem>();
 
 
         public pb() { }
